@@ -38,9 +38,9 @@ module Dillo
       @connection = Faraday.new(:url => self.class.root) do |builder|
         builder.use SocrataAppTokenMiddleware
         builder.use Dillo::Response::RaiseClientError
-        builder.request :json
+        builder.response :logger 
 
-        # Enable logger output with Dillo.debug = true
+        # Enable logger output with Dillojamie.phillips@austintexas.gov.debug = true
         if Dillo.debug
           builder.response :logger
         end
@@ -173,7 +173,7 @@ module Dillo
     end
 
     def attributes=(attributes)
-      @attributes = Windy.underscore(attributes)
+      @attributes = Dillo.underscore(attributes)
     end
 
     def respond_to?(method)

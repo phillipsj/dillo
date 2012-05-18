@@ -27,7 +27,7 @@ describe Dillo do
 
     it "should return all the Views" do
       all_views = Dillo.views
-      all_views.count.should == 200
+      all_views.count.should == 58
     end
   end
 
@@ -62,7 +62,7 @@ describe Dillo do
     it "should return the columns view" do
       fire_stations = Dillo.views.find_by_id("64cq-wf5u")
       stations = fire_stations.rows
-      stations.columns.should == ["sid", "id", "position", "created_at", "created_meta", "updated_at", "updated_meta", "meta", "Name", "Jurisdiction Name", "Y", "X", "Location 1"]
+      stations.columns.should == ["sid", "id", "position", "created_at", "created_meta", "updated_at", "updated_meta", "meta", "name", "jurisdiction name", "y", "x", "location 1"]
     end
   end
 
