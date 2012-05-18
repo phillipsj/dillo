@@ -1,0 +1,351 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "64cq-wf5u",
+      "name" : "Austin Fire Stations",
+      "attribution" : "City of Austin",
+      "averageRating" : 0,
+      "category" : "Public Safety",
+      "createdAt" : 1332257865,
+      "description" : "Location information for Austin Fire stations",
+      "displayType" : "table",
+      "downloadCount" : 35,
+      "numberOfComments" : 0,
+      "oid" : 542124,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1332258057,
+      "publicationGroup" : 301092,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1332257868,
+      "rowsUpdatedBy" : "qep5-ges8",
+      "signed" : false,
+      "tableId" : 301092,
+      "totalTimesRated" : 0,
+      "viewCount" : 127,
+      "viewLastModified" : 1334587042,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : "sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : "id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : "position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : "created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : "created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : "updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : "updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : "meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 6734023,
+        "name" : "Name",
+        "dataTypeName" : "text",
+        "fieldName" : "name",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 2318831,
+        "width" : 148,
+        "cachedContents" : {
+          "non_null" : 44,
+          "smallest" : "FS0001",
+          "null" : 0,
+          "largest" : "FS0045",
+          "top" : [ {
+            "count" : 20,
+            "item" : "FS0043"
+          }, {
+            "count" : 19,
+            "item" : "FS0044"
+          }, {
+            "count" : 18,
+            "item" : "FS0045"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 6734024,
+        "name" : "Jurisdiction Name",
+        "dataTypeName" : "text",
+        "fieldName" : "jurisdiction_name",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 2318832,
+        "width" : 304,
+        "cachedContents" : {
+          "non_null" : 44,
+          "smallest" : "AFD",
+          "null" : 0,
+          "largest" : "AFD",
+          "top" : [ {
+            "count" : 20,
+            "item" : "AFD"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 6734025,
+        "name" : "Y",
+        "dataTypeName" : "number",
+        "fieldName" : "y",
+        "position" : 4,
+        "renderTypeName" : "number",
+        "tableColumnId" : 2318833,
+        "width" : 112,
+        "cachedContents" : {
+          "non_null" : 44,
+          "smallest" : "30.174847",
+          "sum" : "1333.545452",
+          "null" : 0,
+          "average" : "30.30785118181818",
+          "largest" : "30.482101",
+          "top" : [ {
+            "count" : 20,
+            "item" : "30.183114"
+          }, {
+            "count" : 19,
+            "item" : "30.432231"
+          }, {
+            "count" : 18,
+            "item" : "30.482101"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 6734026,
+        "name" : "X",
+        "dataTypeName" : "number",
+        "fieldName" : "x",
+        "position" : 5,
+        "renderTypeName" : "number",
+        "tableColumnId" : 2318834,
+        "width" : 112,
+        "cachedContents" : {
+          "non_null" : 44,
+          "smallest" : "-97.897652",
+          "sum" : "-4300.919520",
+          "null" : 0,
+          "average" : "-97.74817090909091",
+          "largest" : "-97.612838",
+          "top" : [ {
+            "count" : 20,
+            "item" : "-97.897652"
+          }, {
+            "count" : 19,
+            "item" : "-97.778718"
+          }, {
+            "count" : 18,
+            "item" : "-97.766185"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 6734027,
+        "name" : "Location 1",
+        "dataTypeName" : "location",
+        "fieldName" : "location_1",
+        "position" : 6,
+        "renderTypeName" : "location",
+        "tableColumnId" : 2318835,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 44,
+          "smallest" : {
+            "longitude" : -97.754818,
+            "latitude" : 30.276405,
+            "human_address" : "{\"address\":\"1000 Blanco St\",\"city\":\"AUSTIN\",\"state\":\"TX\",\"zip\":\"78703\"}"
+          },
+          "null" : 0,
+          "largest" : {
+            "longitude" : -97.766185,
+            "latitude" : 30.482101,
+            "human_address" : "{\"address\":\"9421 Spectrum Dr\",\"city\":\"AUSTIN\",\"state\":\"TX\",\"zip\":\"78717\"}"
+          },
+          "top" : [ {
+            "count" : 20,
+            "item" : {
+              "longitude" : -97.897652,
+              "latitude" : 30.183114,
+              "human_address" : "{\"address\":\"11401 Escarpment Blvd\",\"city\":\"AUSTIN\",\"state\":\"TX\",\"zip\":\"78749\"}"
+            }
+          }, {
+            "count" : 19,
+            "item" : {
+              "longitude" : -97.778718,
+              "latitude" : 30.432231,
+              "human_address" : "{\"address\":\"11612 Four Iron Dr\",\"city\":\"AUSTIN\",\"state\":\"TX\",\"zip\":\"78613\"}"
+            }
+          }, {
+            "count" : 18,
+            "item" : {
+              "longitude" : -97.766185,
+              "latitude" : 30.482101,
+              "human_address" : "{\"address\":\"9421 Spectrum Dr\",\"city\":\"AUSTIN\",\"state\":\"TX\",\"zip\":\"78717\"}"
+            }
+          } ]
+        },
+        "format" : {
+        },
+        "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Additional Information" : {
+            "Frequency" : "As Needed",
+            "Department" : "Austin Fire"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "qep5-ges8",
+        "displayName" : "Jamie Phillips",
+        "emailUnsubscribed" : false,
+        "privacyControl" : "login",
+        "privilegesDisabled" : false,
+        "profileLastModified" : 1323355209,
+        "roleName" : "administrator",
+        "screenName" : "Jamie Phillips",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "qep5-ges8",
+        "displayName" : "Jamie Phillips",
+        "emailUnsubscribed" : false,
+        "privacyControl" : "login",
+        "privilegesDisabled" : false,
+        "profileLastModified" : 1323355209,
+        "roleName" : "administrator",
+        "screenName" : "Jamie Phillips",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages" ]
+      },
+      "tags" : [ "fire", "afd", "stations", "fire stations" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "A7DAF529-2639-401E-9709-DA3A509E7515", 1, 1332257866, "400094", 1332257866, "400094", "{\n}", "FS0001", "AFD", "30.265838", "-97.739591", [ "{\"address\":\"401 E 5th St\",\"city\":\"AUSTIN\",\"state\":\"TX\",\"zip\":\"78701\"}", "30.265838", "-97.739591", null, false ] ]
+, [ 2, "FBC09E1D-6BB1-4313-BABF-4A04E52DBF7A", 2, 1332257866, "400094", 1332257866, "400094", "{\n}", "FS0002", "AFD", "30.282028", "-97.742966", [ "{\"address\":\"506 W Martin Luther King Blvd\",\"city\":\"AUSTIN\",\"state\":\"TX\",\"zip\":\"78701\"}", "30.282028", "-97.742966", null, false ] ]
+, [ 3, "9A694252-A354-46F0-ACD7-2D4FC0EB018F", 3, 1332257866, "400094", 1332257866, "400094", "{\n}", "FS0003", "AFD", "30.294741", "-97.738427", [ "{\"address\":\"201 W 30th St\",\"city\":\"AUSTIN\",\"state\":\"TX\",\"zip\":\"78705\"}", "30.294741", "-97.738427", null, false ] ]
+, [ 4, "22ED0122-6A8D-4D3C-81ED-7652A5DE655D", 4, 1332257866, "400094", 1332257866, "400094", "{\n}", "FS0004", "AFD", "30.276405", "-97.754818", [ "{\"address\":\"1000 Blanco St\",\"city\":\"AUSTIN\",\"state\":\"TX\",\"zip\":\"78703\"}", "30.276405", "-97.754818", null, false ] ]
+, [ 5, "D9E84C7A-D7A1-44D0-90AF-91F74B5FC3EF", 5, 1332257866, "400094", 1332257866, "400094", "{\n}", "FS0005", "AFD", "30.278099", "-97.685082", [ "{\"address\":\"1201 Webberville Rd\",\"city\":\"AUSTIN\",\"state\":\"TX\",\"zip\":\"78721\"}", "30.278099", "-97.685082", null, false ] ]
+, [ 6, "C837CA35-00DF-4864-9DFD-79776D995A12", 6, 1332257866, "400094", 1332257866, "400094", "{\n}", "FS0006", "AFD", "30.246986", "-97.750639", [ "{\"address\":\"1705 S Congress Ave\",\"city\":\"AUSTIN\",\"state\":\"TX\",\"zip\":\"78704\"}", "30.246986", "-97.750639", null, false ] ]
+, [ 7, "6BC4D8F0-C8B1-44C1-AD2C-A9994C1CCC77", 7, 1332257866, "400094", 1332257866, "400094", "{\n}", "FS0007", "AFD", "30.258012", "-97.724202", [ "{\"address\":\"201 Chicon St\",\"city\":\"AUSTIN\",\"state\":\"TX\",\"zip\":\"78702\"}", "30.258012", "-97.724202", null, false ] ]
+, [ 8, "1D6CBD45-B6C4-460E-A0A0-3DF29542EC79", 8, 1332257866, "400094", 1332257866, "400094", "{\n}", "FS0008", "AFD", "30.372163", "-97.723397", [ "{\"address\":\"8989 Research Blvd\",\"city\":\"AUSTIN\",\"state\":\"TX\",\"zip\":\"78758\"}", "30.372163", "-97.723397", null, false ] ]
+, [ 9, "B64297BA-63EC-4B74-949D-1C6279350749", 9, 1332257866, "400094", 1332257866, "400094", "{\n}", "FS0009", "AFD", "30.306461", "-97.729813", [ "{\"address\":\"4301 Speedway\",\"city\":\"AUSTIN\",\"state\":\"TX\",\"zip\":\"78751\"}", "30.306461", "-97.729813", null, false ] ]
+, [ 10, "1FDCDAD2-8A7F-4F57-B54A-DC8EC57730BB", 10, 1332257866, "400094", 1332257866, "400094", "{\n}", "FS0010", "AFD", "30.295395", "-97.766826", [ "{\"address\":\"3009 Windsor Rd\",\"city\":\"AUSTIN\",\"state\":\"TX\",\"zip\":\"78703\"}", "30.295395", "-97.766826", null, false ] ]
+, [ 11, "F8FCFDF1-A448-4A08-9EA0-1132508AFB45", 11, 1332257866, "400094", 1332257866, "400094", "{\n}", "FS0011", "AFD", "30.253048", "-97.767742", [ "{\"address\":\"1691 Kinney Ave\",\"city\":\"AUSTIN\",\"state\":\"TX\",\"zip\":\"78704\"}", "30.253048", "-97.767742", null, false ] ]
+, [ 12, "9D264510-E170-4831-A030-D78B4EF45806", 12, 1332257866, "400094", 1332257866, "400094", "{\n}", "FS0012", "AFD", "30.322331", "-97.739816", [ "{\"address\":\"2109 Hancock Dr\",\"city\":\"AUSTIN\",\"state\":\"TX\",\"zip\":\"78756\"}", "30.322331", "-97.739816", null, false ] ]
+, [ 13, "395BC336-2C9B-4D29-BE3F-6032E89DEAE1", 13, 1332257866, "400094", 1332257866, "400094", "{\n}", "FS0014", "AFD", "30.299631", "-97.708717", [ "{\"address\":\"4305 Airport Blvd\",\"city\":\"AUSTIN\",\"state\":\"TX\",\"zip\":\"78723\"}", "30.299631", "-97.708717", null, false ] ]
+, [ 14, "B90AF1BC-D757-4F69-BD9D-57BB7F9B9456", 14, 1332257866, "400094", 1332257866, "400094", "{\n}", "FS0015", "AFD", "30.257543", "-97.693214", [ "{\"address\":\"829 Airport Blvd\",\"city\":\"AUSTIN\",\"state\":\"TX\",\"zip\":\"78702\"}", "30.257543", "-97.693214", null, false ] ]
+, [ 15, "27278A2F-C07B-4261-81A4-60C0521338C0", 15, 1332257866, "400094", 1332257866, "400094", "{\n}", "FS0016", "AFD", "30.339817", "-97.722634", [ "{\"address\":\"7000 Reese Ln\",\"city\":\"AUSTIN\",\"state\":\"TX\",\"zip\":\"78757\"}", "30.339817", "-97.722634", null, false ] ]
+, [ 16, "C9EE26AB-2894-4D2E-9A3E-25D0D150CDC5", 16, 1332257866, "400094", 1332257866, "400094", "{\n}", "FS0017", "AFD", "30.224974", "-97.771244", [ "{\"address\":\"4128 S 1st St\",\"city\":\"AUSTIN\",\"state\":\"TX\",\"zip\":\"78745\"}", "30.224974", "-97.771244", null, false ] ]
+, [ 17, "6F0E9D8C-E35E-4570-9CC7-F83960136818", 17, 1332257866, "400094", 1332257866, "400094", "{\n}", "FS0018", "AFD", "30.317413", "-97.690519", [ "{\"address\":\"6369 Berkman Dr\",\"city\":\"AUSTIN\",\"state\":\"TX\",\"zip\":\"78723\"}", "30.317413", "-97.690519", null, false ] ]
+, [ 18, "7B12C86E-B6F3-437D-9491-14FBD3E474FF", 18, 1332257866, "400094", 1332257866, "400094", "{\n}", "FS0019", "AFD", "30.334729", "-97.758769", [ "{\"address\":\"5211 Balcones Dr\",\"city\":\"AUSTIN\",\"state\":\"TX\",\"zip\":\"78731\"}", "30.334729", "-97.758769", null, false ] ]
+, [ 19, "44C7892F-7A30-42F5-B6D3-E6126FCE6C4A", 19, 1332257866, "400094", 1332257866, "400094", "{\n}", "FS0020", "AFD", "30.206792", "-97.805995", [ "{\"address\":\"6601 Manchaca Rd\",\"city\":\"AUSTIN\",\"state\":\"TX\",\"zip\":\"78745\"}", "30.206792", "-97.805995", null, false ] ]
+, [ 20, "1A45A466-8695-4840-97F7-0327BD59D205", 20, 1332257866, "400094", 1332257866, "400094", "{\n}", "FS0021", "AFD", "30.370906", "-97.755809", [ "{\"address\":\"4201 Spicewood Springs Rd\",\"city\":\"AUSTIN\",\"state\":\"TX\",\"zip\":\"78759\"}", "30.370906", "-97.755809", null, false ] ]
+, [ 21, "8CA658FB-BCE8-49FA-A53E-7C496AB44869", 21, 1332257866, "400094", 1332257866, "400094", "{\n}", "FS0022", "AFD", "30.229268", "-97.713182", [ "{\"address\":\"5309 E Riverside Dr\",\"city\":\"AUSTIN\",\"state\":\"TX\",\"zip\":\"78741\"}", "30.229268", "-97.713182", null, false ] ]
+, [ 22, "F129EBC3-9F0B-4559-8CC2-1C31BD110B32", 22, 1332257866, "400094", 1332257866, "400094", "{\n}", "FS0023", "AFD", "30.352341", "-97.678561", [ "{\"address\":\"1330 E Rundberg Ln\",\"city\":\"AUSTIN\",\"state\":\"TX\",\"zip\":\"78753\"}", "30.352341", "-97.678561", null, false ] ]
+, [ 23, "181E3ACA-8667-47AE-AD96-E03DA6341317", 23, 1332257866, "400094", 1332257866, "400094", "{\n}", "FS0024", "AFD", "30.187375", "-97.742598", [ "{\"address\":\"5811 Nuckols Crossing\",\"city\":\"AUSTIN\",\"state\":\"TX\",\"zip\":\"78744\"}", "30.187375", "-97.742598", null, false ] ]
+, [ 24, "CBEA9139-693B-48C2-9467-0EAEC804C852", 24, 1332257866, "400094", 1332257866, "400094", "{\n}", "FS0025", "AFD", "30.418169", "-97.74259", [ "{\"address\":\"5228 Duval Rd\",\"city\":\"AUSTIN\",\"state\":\"TX\",\"zip\":\"78727\"}", "30.418169", "-97.74259", null, false ] ]
+, [ 25, "F5374FAF-2BA9-4B07-A2D9-3693DF72FAD8", 25, 1332257866, "400094", 1332257866, "400094", "{\n}", "FS0026", "AFD", "30.293241", "-97.63143", [ "{\"address\":\"6702 Wentworth Dr\",\"city\":\"AUSTIN\",\"state\":\"TX\",\"zip\":\"78724\"}", "30.293241", "-97.63143", null, false ] ]
+, [ 26, "5913583B-DF07-41B0-8EFF-DCAC8186ABD2", 26, 1332257866, "400094", 1332257866, "400094", "{\n}", "FS0027", "AFD", "30.227608", "-97.853709", [ "{\"address\":\"5401 Mc Carty Ln\",\"city\":\"AUSTIN\",\"state\":\"TX\",\"zip\":\"78749\"}", "30.227608", "-97.853709", null, false ] ]
+, [ 27, "227AFDB6-F60D-40F3-ADD6-E59AED17396C", 27, 1332257866, "400094", 1332257866, "400094", "{\n}", "FS0028", "AFD", "30.419173", "-97.701426", [ "{\"address\":\"2410 W Parmer Ln\",\"city\":\"AUSTIN\",\"state\":\"TX\",\"zip\":\"78727\"}", "30.419173", "-97.701426", null, false ] ]
+, [ 28, "AB69EB95-3310-4CAB-8BBB-D8BCDCB2BDAC", 28, 1332257866, "400094", 1332257866, "400094", "{\n}", "FS0029", "AFD", "30.195953", "-97.845823", [ "{\"address\":\"3704 Deer Ln\",\"city\":\"AUSTIN\",\"state\":\"TX\",\"zip\":\"78749\"}", "30.195953", "-97.845823", null, false ] ]
+, [ 29, "107E905E-EAEA-4D50-991F-CC1627951BC9", 29, 1332257866, "400094", 1332257866, "400094", "{\n}", "FS0030", "AFD", "30.38401", "-97.692135", [ "{\"address\":\"1021 W Braker Ln\",\"city\":\"AUSTIN\",\"state\":\"TX\",\"zip\":\"78758\"}", "30.38401", "-97.692135", null, false ] ]
+, [ 30, "2CEAF47D-53BC-4FAD-9B26-444C8E6C7301", 30, 1332257866, "400094", 1332257866, "400094", "{\n}", "FS0031", "AFD", "30.357735", "-97.786768", [ "{\"address\":\"5507 Fm 2222 Rd\",\"city\":\"AUSTIN\",\"state\":\"TX\",\"zip\":\"78731\"}", "30.357735", "-97.786768", null, false ] ]
+, [ 31, "4D162B05-CD57-435F-AA60-E2E789132725", 31, 1332257866, "400094", 1332257866, "400094", "{\n}", "FS0032", "AFD", "30.267265", "-97.790248", [ "{\"address\":\"2804 Montebello Rd\",\"city\":\"AUSTIN\",\"state\":\"TX\",\"zip\":\"78746\"}", "30.267265", "-97.790248", null, false ] ]
+, [ 32, "46A32FDC-86BA-474E-98BF-A5E52EA14872", 32, 1332257866, "400094", 1332257866, "400094", "{\n}", "FS0033", "AFD", "30.39873", "-97.76723", [ "{\"address\":\"9409 Bluegrass Dr\",\"city\":\"AUSTIN\",\"state\":\"TX\",\"zip\":\"78759\"}", "30.39873", "-97.76723", null, false ] ]
+, [ 33, "96D74EDC-A2C1-4AB3-AB63-D70FA340D719", 33, 1332257866, "400094", 1332257866, "400094", "{\n}", "FS0034", "AFD", "30.465858", "-97.786574", [ "{\"address\":\"10041 Lake Creek Pkwy\",\"city\":\"AUSTIN\",\"state\":\"TX\",\"zip\":\"78729\"}", "30.465858", "-97.786574", null, false ] ]
+, [ 34, "7C5723EC-CF1D-4C36-8734-7B903A5E408E", 34, 1332257866, "400094", 1332257866, "400094", "{\n}", "FS0035", "AFD", "30.210129", "-97.724558", [ "{\"address\":\"5500 Burleston Rd\",\"city\":\"AUSTIN\",\"state\":\"TX\",\"zip\":\"78744\"}", "30.210129", "-97.724558", null, false ] ]
+, [ 35, "103929A2-C668-44C1-8AEF-5B3FCB8B05EB", 35, 1332257866, "400094", 1332257866, "400094", "{\n}", "FS0036", "AFD", "30.174847", "-97.793419", [ "{\"address\":\"500 Ralph Ablanedo Dr\",\"city\":\"AUSTIN\",\"state\":\"TX\",\"zip\":\"78748\"}", "30.174847", "-97.793419", null, false ] ]
+, [ 36, "FD990F26-2498-44DC-B528-F97D2BAD3667", 36, 1332257866, "400094", 1332257866, "400094", "{\n}", "FS0037", "AFD", "30.250656", "-97.89452", [ "{\"address\":\"8700 W Sh 71\",\"city\":\"AUSTIN\",\"state\":\"TX\",\"zip\":\"78735\"}", "30.250656", "-97.89452", null, false ] ]
+, [ 37, "7F8C874E-703D-4D8B-BF68-9B3FAE1622EF", 37, 1332257866, "400094", 1332257866, "400094", "{\n}", "FS0038", "AFD", "30.446589", "-97.801846", [ "{\"address\":\"10111 Anderson Mill Rd\",\"city\":\"AUSTIN\",\"state\":\"TX\",\"zip\":\"78750\"}", "30.446589", "-97.801846", null, false ] ]
+, [ 38, "91F7DA5C-E90B-4B31-A461-4366A6BA89B7", 38, 1332257866, "400094", 1332257866, "400094", "{\n}", "FS0039", "AFD", "30.404375", "-97.837628", [ "{\"address\":\"7701 River Place Blvd\",\"city\":\"AUSTIN\",\"state\":\"TX\",\"zip\":\"78726\"}", "30.404375", "-97.837628", null, false ] ]
+, [ 39, "7987DA3C-FB45-46D7-BB1B-1174AA9EA715", 39, 1332257866, "400094", 1332257866, "400094", "{\n}", "FS0040", "AFD", "30.399411", "-97.653281", [ "{\"address\":\"12711 Harrisglenn Dr\",\"city\":\"AUSTIN\",\"state\":\"TX\",\"zip\":\"78753\"}", "30.399411", "-97.653281", null, false ] ]
+, [ 40, "4221F552-6AF7-4F89-800C-9B5A4A213C14", 40, 1332257866, "400094", 1332257866, "400094", "{\n}", "FS0041", "AFD", "30.346786", "-97.612838", [ "{\"address\":\"11205 Harris Branch Pkwy\",\"city\":\"AUSTIN\",\"state\":\"TX\",\"zip\":\"78754\"}", "30.346786", "-97.612838", null, false ] ]
+, [ 41, "9AD489C2-C15E-44DE-9ECA-F8D05DF4CE18", 41, 1332257866, "400094", 1332257866, "400094", "{\n}", "FS0042", "AFD", "30.215175", "-97.656381", [ "{\"address\":\"2434 Cardinal Loop\",\"city\":\"AUSTIN\",\"state\":\"TX\",\"zip\":\"78617\"}", "30.215175", "-97.656381", null, false ] ]
+, [ 42, "FC200782-728B-4575-9DA2-A4FD788E45D2", 42, 1332257866, "400094", 1332257866, "400094", "{\n}", "FS0043", "AFD", "30.183114", "-97.897652", [ "{\"address\":\"11401 Escarpment Blvd\",\"city\":\"AUSTIN\",\"state\":\"TX\",\"zip\":\"78749\"}", "30.183114", "-97.897652", null, false ] ]
+, [ 43, "C45B1414-E839-4A48-A1EC-93511355FEA9", 43, 1332257866, "400094", 1332257866, "400094", "{\n}", "FS0044", "AFD", "30.432231", "-97.778718", [ "{\"address\":\"11612 Four Iron Dr\",\"city\":\"AUSTIN\",\"state\":\"TX\",\"zip\":\"78613\"}", "30.432231", "-97.778718", null, false ] ]
+, [ 44, "D2822F71-7D6E-475A-AE7A-BD5AA7AB6674", 44, 1332257866, "400094", 1332257866, "400094", "{\n}", "FS0045", "AFD", "30.482101", "-97.766185", [ "{\"address\":\"9421 Spectrum Dr\",\"city\":\"AUSTIN\",\"state\":\"TX\",\"zip\":\"78717\"}", "30.482101", "-97.766185", null, false ] ]
+ ]
+}
