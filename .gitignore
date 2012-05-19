@@ -16,3 +16,8 @@ tmp
 .yardoc
 _yardoc
 doc/
+
+#Editor files
+*.swp
+*.swap
+

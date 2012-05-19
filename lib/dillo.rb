@@ -1,4 +1,4 @@
-require 'faraday'
+require 'faraday_middleware'
 require 'multi_json'
 
 module Dillo
@@ -38,7 +38,7 @@ module Dillo
       @connection = Faraday.new(:url => self.class.root) do |builder|
         builder.use SocrataAppTokenMiddleware
         builder.use Dillo::Response::RaiseClientError
-        builder.response :logger 
+        builder.use FaradayMiddleware::ParseJson, :content_type => /\bjson$/
 
         # Enable logger output with Dillojamie.phillips@austintexas.gov.debug = true
         if Dillo.debug
