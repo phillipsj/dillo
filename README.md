@@ -19,4 +19,4 @@ Please use the issue tracker here on github.
 
 ##Contributions
 
-Any contributions are welcome, there is not an specific requirements or standards being used at the moment.
+Any contributions are welcome, there are not any specific requirements or standards being used at the moment.
