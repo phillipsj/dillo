@@ -20,4 +20,5 @@ doc/
 #Editor files
 *.swp
 *.swap
+*.DS_Store
 
