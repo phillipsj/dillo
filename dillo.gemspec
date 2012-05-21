@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name        = "dillo"
-  s.version     = "0.1.1"
-  s.date        = "2012-05-19"
+  s.version     = "0.1.2"
+  s.date        = "2012-05-21"
   s.summary     = "Ruby interface to the City of Austin's Data Portal API"
   s.description = "Dillo is a Ruby module that allows you to easily interact with the City of Austin's Data Portal."
 
