@@ -48,3 +48,10 @@ Please use the issue tracker here on github.
 ##Contributions
 
 Any contributions are welcome, there are not any specific requirements or standards being used at the moment.
+
+##Licensing
+
+<a rel="license" href="http://creativecommons.org/publicdomain/zero/1.0/">
+  <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
+</a>
+This is released under the [Creative Commons](http://creativecommons.org/publicdomain/zero/1.0/legalcode) license.
