@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    dillo (0.1)
+    dillo (0.1.2)
       faraday_middleware (~> 0.8)
       multi_json (~> 1.0)
 
